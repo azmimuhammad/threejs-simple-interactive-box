@@ -9,11 +9,11 @@ Three.js — Core 3D rendering engine
 React Three Fiber (R3F) — React renderer for Three.js
 
 📦 How to Run Locally
-# 1. Clone repository
+1. Clone repository
 git clone <repository-url>
-# 2. Install dependencies
+2. Install dependencies
 yarn install
-# 3. Start development server
+3. Start development server
 yarn dev
 
 🎯 Features
